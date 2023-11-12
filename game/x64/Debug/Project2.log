@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  game.c
+D:\C\Project2\game.c(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.c
+D:\C\Project2\test.c(57,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  Project2.vcxproj -> D:\C\Project2\x64\Debug\game.exe
